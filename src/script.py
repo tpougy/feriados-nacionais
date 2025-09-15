@@ -13,8 +13,8 @@ from jinja2 import Environment, FileSystemLoader
 from pandera.errors import SchemaError
 from pandera.typing import DataFrame  # noqa: TC002
 
-from config import settings, setup_logging
-from models import FeriadosModel
+from src.config import settings, setup_logging
+from src.models import FeriadosModel
 
 
 def export_dataframe(df: pd.DataFrame, base_filename: str) -> None:
