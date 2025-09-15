@@ -8,6 +8,9 @@ on:
 
 jobs:
   update-data:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout do repositório
