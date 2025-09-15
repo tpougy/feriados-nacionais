@@ -1,63 +1,168 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Feriados Nacionais da ANBIMA</title>
     <style>
-        body { font-family: sans-serif; line-height: 1.6; margin: 0; padding: 2em; background-color: #f4f4f4; color: #333; }
-        .container { max-width: 800px; margin: auto; background: #fff; padding: 2em; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-        h1 { color: #2c3e50; }
-        ul { list-style-type: none; padding: 0; }
-        li { background: #ecf0f1; margin-bottom: 8px; border-radius: 4px; }
-        a { display: block; padding: 12px 15px; text-decoration: none; color: #3498db; font-weight: bold; }
-        a:hover { background: #e0e6e8; }
-        footer { margin-top: 2em; text-align: center; font-size: 0.9em; color: #7f8c8d; }
+      body {
+        font-family: sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 2em;
+        background-color: #f4f4f4;
+        color: #333;
+      }
+      .container {
+        max-width: 800px;
+        margin: auto;
+        background: #fff;
+        padding: 2em;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        color: #2c3e50;
+      }
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+      li {
+        background: #ecf0f1;
+        margin-bottom: 8px;
+        border-radius: 4px;
+      }
+      a {
+        display: block;
+        padding: 12px 15px;
+        text-decoration: none;
+        color: #3498db;
+        font-weight: bold;
+      }
+      a:hover {
+        background: #e0e6e8;
+      }
+      footer {
+        margin-top: 2em;
+        text-align: center;
+        font-size: 0.9em;
+        color: #7f8c8d;
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <h1>Feriados Nacionais da ANBIMA</h1>
-        <p>Este repositório contém os dados dos feriados nacionais brasileiros, extraídos da ANBIMA e disponibilizados em diversos formatos. Os dados são atualizados anualmente via GitHub Actions.</p>
-        <h2>Arquivos de Dados Disponíveis:</h2>
-        <ul>
-            
-            <li><a href="data/feriados_en_date.csv" target="_blank">feriados_en_date.csv</a></li>
-            
-            <li><a href="data/feriados_en_date.json" target="_blank">feriados_en_date.json</a></li>
-            
-            <li><a href="data/feriados_en_date.parquet" target="_blank">feriados_en_date.parquet</a></li>
-            
-            <li><a href="data/feriados_en_date.xml" target="_blank">feriados_en_date.xml</a></li>
-            
-            <li><a href="data/feriados_en_unix.csv" target="_blank">feriados_en_unix.csv</a></li>
-            
-            <li><a href="data/feriados_en_unix.json" target="_blank">feriados_en_unix.json</a></li>
-            
-            <li><a href="data/feriados_en_unix.parquet" target="_blank">feriados_en_unix.parquet</a></li>
-            
-            <li><a href="data/feriados_en_unix.xml" target="_blank">feriados_en_unix.xml</a></li>
-            
-            <li><a href="data/feriados_pt_br_date.csv" target="_blank">feriados_pt_br_date.csv</a></li>
-            
-            <li><a href="data/feriados_pt_br_date.json" target="_blank">feriados_pt_br_date.json</a></li>
-            
-            <li><a href="data/feriados_pt_br_date.parquet" target="_blank">feriados_pt_br_date.parquet</a></li>
-            
-            <li><a href="data/feriados_pt_br_date.xml" target="_blank">feriados_pt_br_date.xml</a></li>
-            
-            <li><a href="data/feriados_pt_br_unix.csv" target="_blank">feriados_pt_br_unix.csv</a></li>
-            
-            <li><a href="data/feriados_pt_br_unix.json" target="_blank">feriados_pt_br_unix.json</a></li>
-            
-            <li><a href="data/feriados_pt_br_unix.parquet" target="_blank">feriados_pt_br_unix.parquet</a></li>
-            
-            <li><a href="data/feriados_pt_br_unix.xml" target="_blank">feriados_pt_br_unix.xml</a></li>
-            
-        </ul>
-        <footer>
-            <p>Repositório atualizado em: 2025-09-15 00:57:04 UTC</p>
-        </footer>
+      <h1>Feriados Nacionais da ANBIMA</h1>
+      <p>
+        Este repositório contém os dados dos feriados nacionais brasileiros,
+        extraídos da ANBIMA e disponibilizados em diversos formatos. Os dados
+        são atualizados anualmente via GitHub Actions.
+      </p>
+      <p>
+        Documentação disponível em https://github.com/tpougy/feriados-nacionais
+      </p>
+      <h2>Arquivos de Dados Disponíveis:</h2>
+      <ul>
+        <li>
+          <a href="data/feriados_en_date.csv" target="_blank"
+            >feriados_en_date.csv</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_en_date.json" target="_blank"
+            >feriados_en_date.json</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_en_date.parquet" target="_blank"
+            >feriados_en_date.parquet</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_en_date.xml" target="_blank"
+            >feriados_en_date.xml</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_en_unix.csv" target="_blank"
+            >feriados_en_unix.csv</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_en_unix.json" target="_blank"
+            >feriados_en_unix.json</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_en_unix.parquet" target="_blank"
+            >feriados_en_unix.parquet</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_en_unix.xml" target="_blank"
+            >feriados_en_unix.xml</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_pt_br_date.csv" target="_blank"
+            >feriados_pt_br_date.csv</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_pt_br_date.json" target="_blank"
+            >feriados_pt_br_date.json</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_pt_br_date.parquet" target="_blank"
+            >feriados_pt_br_date.parquet</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_pt_br_date.xml" target="_blank"
+            >feriados_pt_br_date.xml</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_pt_br_unix.csv" target="_blank"
+            >feriados_pt_br_unix.csv</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_pt_br_unix.json" target="_blank"
+            >feriados_pt_br_unix.json</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_pt_br_unix.parquet" target="_blank"
+            >feriados_pt_br_unix.parquet</a
+          >
+        </li>
+
+        <li>
+          <a href="data/feriados_pt_br_unix.xml" target="_blank"
+            >feriados_pt_br_unix.xml</a
+          >
+        </li>
+      </ul>
+      <footer>
+        <p>Repositório atualizado em: 2025-09-15 00:57:04 UTC</p>
+      </footer>
     </div>
-</body>
+  </body>
 </html>
