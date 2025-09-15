@@ -1,0 +1,6317 @@
+[
+    {
+        "dt":978307200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":983145600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":983232000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":987120000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":987811200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":988675200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":992476800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":999820800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1002844800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1004659200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1005782400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1009238400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1009843200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1013385600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1013472000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1017360000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1019347200,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1020211200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1022716800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1031356800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1034380800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1036195200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1037318400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1040774400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1041379200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1046649600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1046736000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1050624000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1050883200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1051747200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1055980800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1062892800,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1065916800,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1067731200,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1068854400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1072310400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1072915200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1077494400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1077580800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1081468800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1082505600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1083369600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1086825600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1094515200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1097539200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1099353600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1100476800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1103932800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1104537600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1107734400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1107820800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1111708800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1114041600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1114905600,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1117065600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1126051200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1129075200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1130889600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1132012800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1135468800,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1136073600,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1140998400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1141084800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1144972800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1145577600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1146441600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1150329600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1157587200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1160611200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1162425600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1163548800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1167004800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1167609600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1171843200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1171929600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1175817600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1177113600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1177977600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1181174400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1189123200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1192147200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1193961600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1195084800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1198540800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1199145600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1202083200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1202169600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1206057600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1208736000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1209600000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1211414400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1220745600,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1223769600,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1225584000,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1226707200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1230163200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1230768000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1235347200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1235433600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1239321600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1240272000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1241136000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1244678400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1252281600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1255305600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1257120000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1258243200,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1261699200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1262304000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1266192000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1266278400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1270166400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1271808000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1272672000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1275523200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1283817600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1286841600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1288656000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1289779200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1293235200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1293840000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1299456000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1299542400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1303344000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1303430400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1304208000,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1308787200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1315353600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1318377600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1320192000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1321315200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1324771200,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1325376000,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1329696000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1329782400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1333670400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1334966400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1335830400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1339027200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1346976000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1350000000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1351814400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1352937600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1356393600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1356998400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1360540800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1360627200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1364515200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1366502400,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1367366400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1369872000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1378512000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1381536000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1383350400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1384473600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1387929600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1388534400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1393804800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1393891200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1397779200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1398038400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1398902400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1403136000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1410048000,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1413072000,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1414886400,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1416009600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1419465600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1420070400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1424044800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1424131200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1428019200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1429574400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1430438400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1433376000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1441584000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1444608000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1446422400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1447545600,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1451001600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1451606400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1454889600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1454976000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1458864000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1461196800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1462060800,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1464220800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1473206400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1476230400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1478044800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1479168000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1482624000,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1483228800,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1488153600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1488240000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1492128000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1492732800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1493596800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1497484800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1504742400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1507766400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1509580800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1510704000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1514160000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1514764800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1518393600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1518480000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1522368000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1524268800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1525132800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1527724800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1536278400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1539302400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1541116800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1542240000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1545696000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1546300800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1551657600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1551744000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1555632000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1555804800,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1556668800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1560988800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1567814400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1570838400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1572652800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1573776000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1577232000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1577836800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1582502400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1582588800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1586476800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1587427200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1588291200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1591833600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1599436800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1602460800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1604275200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1605398400,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1608854400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1609459200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1613347200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1613433600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1617321600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1618963200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1619827200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1622678400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1630972800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1633996800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1635811200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1636934400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1640390400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1640995200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1646006400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1646092800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1649980800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1650499200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1651363200,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1655337600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1662508800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1665532800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1667347200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1668470400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1671926400,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1672531200,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1676851200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1676937600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1680825600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1682035200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1682899200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1686182400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1694044800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1697068800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1698883200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1700006400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1703462400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1704067200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1707696000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1707782400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1711670400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1713657600,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1714521600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1717027200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1725667200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1728691200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1730505600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1731628800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1732060800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":1735084800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1735689600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1740960000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1741046400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1744934400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1745193600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1746057600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1750291200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1757203200,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1760227200,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1762041600,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1763164800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1763596800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":1766620800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1767225600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1771200000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1771286400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1775174400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1776729600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1777593600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1780531200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1788739200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1791763200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1793577600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1794700800,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1795132800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":1798156800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1798761600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1802044800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1802131200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1806019200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1808265600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1809129600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1811376000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1820275200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1823299200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1825113600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1826236800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1826668800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":1829692800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1830297600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1835308800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1835395200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1839283200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1839888000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1840752000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1844640000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1851897600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1854921600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1856736000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1857859200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1858291200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":1861315200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1861920000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1865548800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1865635200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1869523200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1871424000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1872288000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1874880000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1883433600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1886457600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1888272000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1889395200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1889827200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":1892851200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1893456000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1898812800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1898899200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1902787200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1902960000,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1903824000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1908144000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1914969600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1917993600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1919808000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1920931200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1921363200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":1924387200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1924992000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1929657600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1929744000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1933632000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1934496000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1935360000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1938988800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1946505600,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1949529600,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1951344000,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1952467200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1952899200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":1955923200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1956528000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1959897600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1959984000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1963872000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1966118400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1966982400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":1969228800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":1978128000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":1981152000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":1982966400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":1984089600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":1984521600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":1987545600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":1988150400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":1993161600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1993248000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":1997136000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":1997654400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":1998518400,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2002492800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2009664000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2012688000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2014502400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2015625600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2016057600,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2019081600,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2019686400,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2024006400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2024092800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2027980800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2029190400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2030054400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2033337600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2041200000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2044224000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2046038400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2047161600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2047593600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2050617600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2051222400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2054246400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2054332800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2058220800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2060726400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2061590400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2063577600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2072736000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2075760000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2077574400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2078697600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2079129600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2082153600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2082758400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2087510400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2087596800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2091484800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2092348800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2093212800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2096841600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2104358400,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2107382400,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2109196800,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2110320000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2110752000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2113776000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2114380800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2118355200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2118441600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2122329600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2123884800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2124748800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2127686400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2135894400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2138918400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2140732800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2141856000,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2142288000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2145312000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2145916800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2151619200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2151705600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2155420800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2155593600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2156284800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2160950400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2167430400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2170454400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2172268800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2173392000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2173824000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2176848000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2177452800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2181859200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2181945600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2185833600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2186956800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2187820800,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2191190400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2198966400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2201990400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2203804800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2204928000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2205360000,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2208384000,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2208988800,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2212704000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2212790400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2216678400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2218579200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2219443200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2222035200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2230588800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2233612800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2235427200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2236550400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2236982400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2240006400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2240611200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2245968000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2246054400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2249942400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2250115200,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2250979200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2255299200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2262124800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2265148800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2266963200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2268086400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2268518400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2271542400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2272147200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2276208000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2276294400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2280182400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2281651200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2282515200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2285539200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2293660800,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2296684800,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2298499200,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2299622400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2300054400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2303078400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2303683200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2307052800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2307139200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2311027200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2313187200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2314051200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2316384000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2325196800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2328220800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2330035200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2331158400,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2331590400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2334614400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2335219200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2340316800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2340403200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2344291200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2344809600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2345673600,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2349648000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2356819200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2359843200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2361657600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2362780800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2363212800,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2366236800,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2366841600,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2371161600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2371248000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2375136000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2376345600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2377209600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2380492800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2388355200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2391379200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2393193600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2394316800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2394748800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2397772800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2398377600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2401401600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2401488000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2405376000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2407881600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2408745600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2410732800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2419891200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2422915200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2424729600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2425852800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2426284800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2429308800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2429913600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2434665600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2434752000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2438640000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2439417600,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2440281600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2443996800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2451427200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2454451200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2456265600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2457388800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2457820800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2460844800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2461449600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2465510400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2465596800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2469484800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2471040000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2471904000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2474841600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2483049600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2486073600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2487888000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2489011200,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2489443200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2492467200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2493072000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2498169600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2498256000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2502144000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2502576000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2503440000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2507500800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2514585600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2517609600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2519424000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2520547200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2520979200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2524003200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2524608000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2529014400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2529100800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2532988800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2534112000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2534976000,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2538345600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2546121600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2549145600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2550960000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2552083200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2552515200,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2555539200,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2556144000,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2559859200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2559945600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2563833600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2565648000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2566512000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2569190400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2577657600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2580681600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2582496000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2583619200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2584051200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2587075200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2587680000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2593123200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2593209600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2597097600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2597270400,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2598134400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2602454400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2609280000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2612304000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2614118400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2615241600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2615673600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2618697600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2619302400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2623363200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2623449600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2627337600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2628806400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2629670400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2632694400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2640816000,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2643840000,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2645654400,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2646777600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2647209600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2650233600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2650838400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2654208000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2654294400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2658182400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2660342400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2661206400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2663539200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2672352000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2675376000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2677190400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2678313600,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2678745600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2681769600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2682374400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2687472000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2687558400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2691446400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2691878400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2692742400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2696803200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2703888000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2706912000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2708726400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2709849600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2710281600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2713305600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2713910400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2717712000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2717798400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2721686400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2723500800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2724364800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2727043200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2735510400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2738534400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2740348800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2741472000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2741904000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2744928000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2745532800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2750976000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2751062400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2754950400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2755036800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2755900800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2760307200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2767046400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2770070400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2771884800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2773008000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2773440000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2776464000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2777068800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2781820800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2781907200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2785795200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2786572800,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2787436800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2791152000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2798582400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2801606400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2803420800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2804544000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2804976000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2808000000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2808604800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2812060800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2812147200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2816035200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2818108800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2818972800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2821392000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2830118400,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2833142400,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2834956800,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2836080000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2836512000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2839536000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2840140800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2845324800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2845411200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2849299200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2849731200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2850595200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2854656000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2861740800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2864764800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2866579200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2867702400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2868134400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2871158400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2871763200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2876169600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2876256000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2880144000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2881267200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2882131200,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2885500800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2893276800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2896300800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2898115200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2899238400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2899670400,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2902694400,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2903299200,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2906409600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2906496000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2910384000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2912803200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2913667200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2915740800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2924812800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2927836800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2929651200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2930774400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2931206400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2934230400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2934835200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2939673600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2939760000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2943648000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2944339200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2945203200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2949004800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2956348800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2959372800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2961187200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2962310400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2962742400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2965766400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2966371200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":2970518400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2970604800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":2974492800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":2975961600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":2976825600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":2979849600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":2987971200,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":2990995200,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":2992809600,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":2993932800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":2994364800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":2997388800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":2997993600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3001363200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3001449600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3005337600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3007497600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3008361600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3010694400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3019507200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3022531200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3024345600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3025468800,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3025900800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3028924800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3029529600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3034022400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3034108800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3037996800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3039033600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3039897600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3043353600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3051043200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3054067200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3055881600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3057004800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3057436800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3060460800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3061065600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3064867200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3064953600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3068841600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3070569600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3071433600,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3074198400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3082579200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3085603200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3087417600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3088540800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3088972800,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3091996800,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3092601600,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3098131200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3098217600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3102105600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3102192000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3103056000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3107462400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3114201600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3117225600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3119040000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3120163200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3120595200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3123619200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3124224000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3128976000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3129062400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3132950400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3133728000,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3134592000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3138307200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3145737600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3148761600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3150576000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3151699200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3152131200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3155155200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3155760000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3159216000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3159302400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3163190400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3165264000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3166128000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3168547200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3177273600,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3180297600,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3182112000,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3183235200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3183667200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3186691200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3187296000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3192480000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3192566400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3196454400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3196800000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3197664000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3201811200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3208809600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3211833600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3213648000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3214771200,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3215203200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3218227200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3218832000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3223324800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3223411200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3227299200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3228422400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3229286400,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3232656000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3240432000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3243456000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3245270400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3246393600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3246825600,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3249849600,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3250454400,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3253564800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3253651200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3257539200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3259958400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3260822400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3262896000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3271968000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3274992000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3276806400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3277929600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3278361600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3281385600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3281990400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3286828800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3286915200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3290803200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3291494400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3292358400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3296160000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3303504000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3306528000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3308342400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3309465600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3309897600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3312921600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3313526400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3317673600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3317760000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3321648000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3323030400,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3323894400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3327004800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3335040000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3338064000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3339878400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3341001600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3341433600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3344457600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3345062400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3350332800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3350419200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3354307200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3354652800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3355516800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3359664000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3366662400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3369686400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3371500800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3372624000,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3373056000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3376080000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3376684800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3381177600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3381264000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3385152000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3386188800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3387052800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3390508800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3398198400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3401222400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3403036800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3404160000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3404592000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3407616000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3408220800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3412022400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3412108800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3415996800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3417724800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3418588800,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3421353600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3429734400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3432758400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3434572800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3435696000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3436128000,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3439152000,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3439756800,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3445286400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3445372800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3449260800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3449260800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3450124800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3454617600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3461270400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3464294400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3466108800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3467232000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3467664000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3470688000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3471292800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3475526400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3475612800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3479500800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3480883200,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3481747200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3484857600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3492892800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3495916800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3497731200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3498854400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3499286400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3502310400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3502915200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3506371200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3506457600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3510345600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3512419200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3513283200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3515702400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3524428800,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3527452800,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3529267200,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3530390400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3530822400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3533846400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3534451200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3539635200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3539721600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3543609600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3543955200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3544819200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3548966400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3555964800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3558988800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3560803200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3561926400,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3562358400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3565382400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3565987200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3569875200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3569961600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3573849600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3575491200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3576355200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3579206400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3587500800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3590524800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3592339200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3593462400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3593894400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3596918400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3597523200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3600720000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3600806400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3604694400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3607113600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3607977600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3610051200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3619123200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3622147200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3623961600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3625084800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3625516800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3628540800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3629145600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3633984000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3634070400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3637958400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3638649600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3639513600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3643315200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3650659200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3653683200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3655497600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3656620800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3657052800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3660076800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3660681600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3664224000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3664310400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3668198400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3670185600,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3671049600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3673555200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3682195200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3685219200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3687033600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3688156800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3688588800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3691612800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3692217600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3697488000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3697574400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3701462400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3701721600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3702585600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3706819200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3713731200,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3716755200,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3718569600,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3719692800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3720124800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3723148800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3723753600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3728332800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3728419200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3732307200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3733344000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3734208000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3737664000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3745353600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3748377600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3750192000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3751315200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3751747200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3754771200,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3755376000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3759177600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3759264000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3763152000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3764880000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3765744000,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3768508800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3776889600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3779913600,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3781728000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3782851200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3783283200,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3786307200,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3786912000,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3791836800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3791923200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3795811200,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3796416000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3797280000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3801168000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3808425600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3811449600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3813264000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3814387200,
+        "dia_semana":"quarta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3814819200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3817843200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3818448000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3822681600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3822768000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3826656000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3827952000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3828816000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3832012800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3839961600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3842985600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3844800000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3845923200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3846355200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3849379200,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3849984000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3853526400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3853612800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3857500800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3859574400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3860438400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3862857600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3871584000,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3874608000,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3876422400,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3877545600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3877977600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3881001600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3881606400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3886185600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3886272000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3890160000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3891110400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3891974400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3895516800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3903120000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3906144000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3907958400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3909081600,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3909513600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3912537600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3913142400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3917030400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3917116800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3921004800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3922646400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3923510400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3926361600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3934656000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3937680000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3939494400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3940617600,
+        "dia_semana":"segunda-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3941049600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3944073600,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3944678400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3950294400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3950380800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3954182400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3954268800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3955046400,
+        "dia_semana":"domingo",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3959625600,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3966192000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":3969216000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":3971030400,
+        "dia_semana":"quarta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":3972153600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":3972585600,
+        "dia_semana":"domingo",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":3975609600,
+        "dia_semana":"domingo",
+        "feriado":"Natal"
+    },
+    {
+        "dt":3976214400,
+        "dia_semana":"domingo",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":3981139200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3981225600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":3985113600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":3985804800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":3986668800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":3990470400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":3997814400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":4000838400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":4002652800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":4003776000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":4004208000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":4007232000,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":4007836800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":4011379200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":4011465600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":4015353600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":4017340800,
+        "dia_semana":"domingo",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":4018204800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":4020710400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":4029350400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":4032374400,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":4034188800,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Finados"
+    },
+    {
+        "dt":4035312000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":4035744000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":4038768000,
+        "dia_semana":"quarta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":4039372800,
+        "dia_semana":"quarta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal"
+    },
+    {
+        "dt":4044643200,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":4044729600,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":4048617600,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":4048876800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":4049740800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":4053974400,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":4060886400,
+        "dia_semana":"domingo",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":4063910400,
+        "dia_semana":"domingo",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":4065724800,
+        "dia_semana":"domingo",
+        "feriado":"Finados"
+    },
+    {
+        "dt":4066848000,
+        "dia_semana":"s\u00e1bado",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":4067280000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    },
+    {
+        "dt":4070304000,
+        "dia_semana":"quinta-feira",
+        "feriado":"Natal"
+    },
+    {
+        "dt":4070908800,
+        "dia_semana":"quinta-feira",
+        "feriado":"Confraterniza\u00e7\u00e3o Universal "
+    },
+    {
+        "dt":4075488000,
+        "dia_semana":"segunda-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":4075574400,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Carnaval"
+    },
+    {
+        "dt":4079462400,
+        "dia_semana":"sexta-feira",
+        "feriado":"Paix\u00e3o de Cristo"
+    },
+    {
+        "dt":4080412800,
+        "dia_semana":"ter\u00e7a-feira",
+        "feriado":"Tiradentes"
+    },
+    {
+        "dt":4081276800,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia do Trabalho"
+    },
+    {
+        "dt":4084819200,
+        "dia_semana":"quinta-feira",
+        "feriado":"Corpus Christi"
+    },
+    {
+        "dt":4092422400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Independ\u00eancia do Brasil"
+    },
+    {
+        "dt":4095446400,
+        "dia_semana":"segunda-feira",
+        "feriado":"Nossa Sr.a Aparecida - Padroeira do Brasil"
+    },
+    {
+        "dt":4097260800,
+        "dia_semana":"segunda-feira",
+        "feriado":"Finados"
+    },
+    {
+        "dt":4098384000,
+        "dia_semana":"domingo",
+        "feriado":"Proclama\u00e7\u00e3o da Rep\u00fablica"
+    },
+    {
+        "dt":4098816000,
+        "dia_semana":"sexta-feira",
+        "feriado":"Dia Nacional de Zumbi e da Consci\u00eancia Negra"
+    }
+]
