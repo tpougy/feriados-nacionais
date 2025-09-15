@@ -131,6 +131,10 @@ def main() -> None:
     setup_logging()
     fetch_and_process_holidays()
 
+    dt_exec = datetime.datetime.now(tz=datetime.UTC)
+
+    return dt_exec.year
+
 
 if __name__ == "__main__":
     main()
