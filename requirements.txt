@@ -1,0 +1,7 @@
+pandas
+httpx
+openpyxl  # Necessário para o pandas ler arquivos .xlsx
+lxml      # Necessário para o pandas escrever em .xml
+pyarrow   # Necessário para o pandas escrever em .parquet
+
+jinja2

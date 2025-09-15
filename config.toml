@@ -1,0 +1,6 @@
+URL_ANBIMA_FERIADOS = "https://www.anbima.com.br/feriados/arqs/feriados_nacionais.xls"
+
+OUTPUT_DIR = "./data"
+LOG_DIR = "./logs"
+
+EXPORT_FORMATS = ["csv","json","xml","parquet"]
