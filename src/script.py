@@ -100,7 +100,7 @@ def fetch_and_process_holidays() -> int:
 
             # Subversão X: otimizada para Excel, se habilitado no config
             if settings.EXPORT_EXCEL_SERIAL_DATES and not exported_excel:
-                exported_excel = export_excel_serial_txt(df_date, f"{name}_date")
+                exported_excel = export_excel_serial_txt(df_date)
 
             # Subversão A: Data no formato YYYY-MM-DD
             export_dataframe(df_date, f"{name}_date")
