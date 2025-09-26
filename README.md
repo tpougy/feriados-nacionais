@@ -45,8 +45,28 @@ Os arquivos \_xl.txt contêm exatamente isso: uma única linha de texto com todo
 
 Esta abordagem é ideal para ser usada com a função WEBSERVICE do Excel, pois o resultado é um texto leve e que o Excel pode interpretar numericamente sem a necessidade de conversões complexas.
 
-Como Usar com Fórmulas do Excel
-Nota: Para usar estes exemplos, substitua a URL pela URL real do seu repositório.
+**Como Usar com Fórmulas do Excel**
+
+1. Via ExcelLabs
+
+- Opção A: Importe o módulo via gist
+
+`https://gist.github.com/tpougy/eedb782adc59f7977fc439e8030367fa`
+
+- Opção B. Copie e cole o código abaixo na aba "módulo" do Excel Labs
+
+```
+// Retorna os feriados brasileiros segundo a ANBIMA
+FERIADOS.ANBIMA=LAMBDA([header];
+   LET(
+      url; "https://tpougy.blog/feriados-nacionais/data/feriados_excel.txt";
+      h; IF(ISOMITTED(header); 0; INT(VALUE(header)));
+      h_name; "dt";
+      feriados; VALUE(TRANSPOSE(TEXTSPLIT(WEBSERVICE(url); ";")));
+      IF(h = 1; VSTACK(h_name; feriados); feriados)
+   )
+)
+```
 
 ## 🗃️ Formatos Disponíveis
 
