@@ -26,7 +26,7 @@ def export_dataframe(df: pd.DataFrame, base_filename: str) -> None:
 
     for fmt in settings.EXPORT_FORMATS:
         filepath = settings.OUTPUT_DIR / f"{base_filename}.{fmt}"
-        filepath_xl = settings.OUTPUT_DIR / f"{base_filename}_xl.txt"
+        filepath_xl = settings.OUTPUT_DIR / "feriados_excel.txt"
         try:
             match fmt:
                 case "csv":
@@ -38,15 +38,32 @@ def export_dataframe(df: pd.DataFrame, base_filename: str) -> None:
                 case "parquet":
                     df.to_parquet(filepath, index=False)
 
-            # fmt: off
-            if "unix" not in base_filename:
-                df["dt"].apply(lambda d: int(xl_datetime.to_excel(d))).to_csv( filepath_xl, index=False, encoding="utf-8", lineterminator=";")
-            # fmt: on
-
             logger.info(f">> Arquivo '{filepath}' salvo com sucesso.")
 
         except Exception:
             logger.exception(f">> Falha ao salvar no formato {fmt}")
+
+
+def export_excel_serial_txt(df: pd.DataFrame) -> None:
+    """Converte a coluna de data para o formato serial do Excel e salva em .txt."""
+    logger = logging.getLogger(__name__)
+    filepath_xl = settings.OUTPUT_DIR / "feriados_excel.txt"
+    logger.info(f"Exportando arquivo otimizado para Excel: '{filepath_xl}'...")
+
+    try:
+        date_col = df.columns[0]  # Assume que a primeira coluna é a data
+
+        # Converte data para serial do Excel e junta com ';'
+        serial_dates = df[date_col].apply(lambda d: int(xl_datetime.to_excel(d)))
+        serial_dates.to_csv(filepath_xl, header=False, index=False, encoding="utf-8", lineterminator=";")
+
+        logger.info(f">> Arquivo '{filepath_xl}' salvo com sucesso.")
+
+    except Exception:
+        logger.exception(f">> Falha ao salvar o arquivo otimizado para Excel: {filepath_xl}")
+
+    else:
+        return True
 
 
 def fetch_and_process_holidays() -> int:
@@ -74,12 +91,18 @@ def fetch_and_process_holidays() -> int:
 
         dataframes_to_export: dict[str, pd.DataFrame] = FeriadosModel.exportar_versoes(validated_df)
 
+        exported_excel = False
         # 3. Exportar para múltiplos formatos e subversões
         for name, df_version in dataframes_to_export.items():
-            # Subversão A: Data no formato YYYY-MM-DD
             df_date = df_version.copy()
             date_col_name = df_date.columns[0]  # O nome da coluna de data pode ser 'Data' ou 'dt'
             df_date[date_col_name] = df_date[date_col_name].dt.date
+
+            # Subversão X: otimizada para Excel, se habilitado no config
+            if settings.EXPORT_EXCEL_SERIAL_DATES and not exported_excel:
+                exported_excel = export_excel_serial_txt(df_date, f"{name}_date")
+
+            # Subversão A: Data no formato YYYY-MM-DD
             export_dataframe(df_date, f"{name}_date")
 
             # Subversão B: Data em formato Unix Timestamp

@@ -18,6 +18,8 @@ class Settings(BaseSettings):
 
     EXPORT_FORMATS: list[str]
 
+    EXPORT_EXCEL_SERIAL_DATES: bool = True
+
     model_config = SettingsConfigDict(toml_file="config.toml", toml_file_encoding="utf-8")
 
     @classmethod

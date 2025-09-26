@@ -4,3 +4,5 @@ OUTPUT_DIR = "./data"
 LOG_DIR = "./logs"
 
 EXPORT_FORMATS = ["csv","json","xml","parquet"]
+
+EXPORT_EXCEL_SERIAL_DATES = true
