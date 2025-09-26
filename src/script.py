@@ -10,6 +10,7 @@ from pathlib import Path
 import httpx
 import pandas as pd
 from jinja2 import Environment, FileSystemLoader
+from openpyxl.utils import datetime as xl_datetime
 from pandera.errors import SchemaError
 from pandera.typing import DataFrame  # noqa: TC002
 
@@ -25,6 +26,7 @@ def export_dataframe(df: pd.DataFrame, base_filename: str) -> None:
 
     for fmt in settings.EXPORT_FORMATS:
         filepath = settings.OUTPUT_DIR / f"{base_filename}.{fmt}"
+        filepath_xl = settings.OUTPUT_DIR / f"{base_filename}_xl.txt"
         try:
             match fmt:
                 case "csv":
@@ -35,6 +37,11 @@ def export_dataframe(df: pd.DataFrame, base_filename: str) -> None:
                     df.to_xml(filepath, index=False, parser="lxml", root_name="feriados")
                 case "parquet":
                     df.to_parquet(filepath, index=False)
+
+            # fmt: off
+            if "unix" not in base_filename:
+                df["dt"].apply(lambda d: int(xl_datetime.to_excel(d))).to_csv( filepath_xl, index=False, encoding="utf-8", lineterminator=";")
+            # fmt: on
 
             logger.info(f">> Arquivo '{filepath}' salvo com sucesso.")
 

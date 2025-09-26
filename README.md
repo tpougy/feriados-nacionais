@@ -28,6 +28,26 @@ https://tpougy.blog/feriados-nacionais/data/feriados_pt_br_date.csv
 JSON (Inglês, com timestamp Unix):
 https://tpougy.blog/feriados-nacionais/data/feriados_en_unix.json
 
+## 💡 Uso Específico: Microsoft Excel (Funções de Data)
+
+Para otimizar o uso em funções de data do Excel (como WORKDAY.INTL ou NETWORKDAYS.INTL), foi criada uma versão especial dos arquivos de dados: feriados\_<versão>\_date_xl.txt.
+
+**Como Funciona?**
+O Microsoft Excel não armazena datas como "25/12/2025". Internamente, ele as trata como um número de série (ex: 46015), que representa o número de dias desde 01/01/1900.
+
+Os arquivos \_xl.txt contêm exatamente isso: uma única linha de texto com todos os números de série dos feriados, separados por ponto e vírgula.
+
+**Exemplo do conteúdo de `feriados_pt_br_date_xl.txt`:**
+
+```
+45658;45736;45767;...
+```
+
+Esta abordagem é ideal para ser usada com a função WEBSERVICE do Excel, pois o resultado é um texto leve e que o Excel pode interpretar numericamente sem a necessidade de conversões complexas.
+
+Como Usar com Fórmulas do Excel
+Nota: Para usar estes exemplos, substitua a URL pela URL real do seu repositório.
+
 ## 🗃️ Formatos Disponíveis
 
 Os dados são disponibilizados nos seguintes formatos para atender a diferentes necessidades:
